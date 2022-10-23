@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Intro/Intro.iml" filepath="$PROJECT_DIR$/Intro/Intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCamp2022.iml" filepath="$PROJECT_DIR$/JavaCamp2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/OOP1/OOP1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WithNLayeredApp/WithNLayeredApp.iml" filepath="$PROJECT_DIR$/WithNLayeredApp/WithNLayeredApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopWithNLayeredApp/oopWithNLayeredApp.iml" filepath="$PROJECT_DIR$/oopWithNLayeredApp/oopWithNLayeredApp.iml" />
     </modules>
   </component>
 </project>
