@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b00f344-120c-4336-8ffe-8d8b91d5544f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WithNLayeredApp/WithNLayeredApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WithNLayeredApp/src/oopWithNLayeredApp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homeworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
